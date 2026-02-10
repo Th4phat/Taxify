@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1770183838068,
+      "tag": "0000_futuristic_baron_zemo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1770183838069,
+      "tag": "0001_recurring_transactions",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1770283838070,
+      "tag": "0002_new_features",
+      "breakpoints": true
+    }
+  ]
+}
